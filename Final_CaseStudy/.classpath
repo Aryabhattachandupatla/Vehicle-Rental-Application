@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/Aryabhatta_194284/Web Framework/DBFW/newWebJars/classes12.jar"/>
+	<classpathentry kind="lib" path="D:/Aryabhatta_194284/Web Framework/DBFW/newWebJars/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Aryabhatta_194284/Web Framework/DBFW/newWebJars/commons-dbcp-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Aryabhatta_194284/Web Framework/DBFW/newWebJars/commons-dbcp-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Aryabhatta_194284/Web Framework/DBFW/newWebJars/commons-lang-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Aryabhatta_194284/Web Framework/DBFW/newWebJars/commons-pool-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Aryabhatta_194284/Web Framework/DBFW/newWebJars/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Aryabhatta_194284/Web Framework/DBFW/newWebJars/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Aryabhatta_194284/Web Framework/DBFW/newWebJars/log4j-1.2.8.jar"/>
+	<classpathentry kind="lib" path="D:/Aryabhatta_194284/Web Framework/DBFW/newWebJars/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="D:/Aryabhatta_194284/Web Framework/DBFW/newWebJars/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="D:/Aryabhatta_194284/Web Framework/DBFW/newWebJars/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/Aryabhatta_194284/Web Framework/DBFW/newWebJars/standard-1.1.2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
